@@ -7,7 +7,6 @@ usando dados e visualizações para apoiar decisões de produto.
 ## Ferramentas utilizadas
 - Python
 - Pandas
-- Seaborn
 - Matplotlib
 - SQL
 
